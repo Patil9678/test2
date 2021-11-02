@@ -1,0 +1,7 @@
+F:\DotNet Course\Practise\Factorial Number\bin\Debug\Factorial Number.exe.config
+F:\DotNet Course\Practise\Factorial Number\bin\Debug\Factorial Number.exe
+F:\DotNet Course\Practise\Factorial Number\bin\Debug\Factorial Number.pdb
+F:\DotNet Course\Practise\Factorial Number\obj\Debug\Factorial Number.csproj.AssemblyReference.cache
+F:\DotNet Course\Practise\Factorial Number\obj\Debug\Factorial Number.csproj.CoreCompileInputs.cache
+F:\DotNet Course\Practise\Factorial Number\obj\Debug\Factorial Number.exe
+F:\DotNet Course\Practise\Factorial Number\obj\Debug\Factorial Number.pdb
